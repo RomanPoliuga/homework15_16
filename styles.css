@@ -1,0 +1,23 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+#search-box {
+  width: 300px;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.country-info {
+  margin-top: 20px;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+img {
+  margin-top: 10px;
+  border: 1px solid #ccc;
+}
